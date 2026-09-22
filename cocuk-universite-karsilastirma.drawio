@@ -1,0 +1,212 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Sayfa-1" id="7Q2t22jwQLww-d_bvM3b">
+    <mxGraphModel dx="1628" dy="1598" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="JxXVEn9Mq3JPGflQaSPK-17" edge="1" parent="1" source="JxXVEn9Mq3JPGflQaSPK-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" target="JxXVEn9Mq3JPGflQaSPK-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JxXVEn9Mq3JPGflQaSPK-18" connectable="0" parent="JxXVEn9Mq3JPGflQaSPK-17" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Seçilen Üniversite ID&#39;leri" vertex="1">
+          <mxGeometry relative="1" x="0.0568" y="2" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JxXVEn9Mq3JPGflQaSPK-1" parent="1" style="swimlane;whiteSpace=wrap;html=1;fillColor=#a0522d;strokeColor=#6D1F00;startSize=20;fontColor=#ffffff;" value="5.1" vertex="1">
+          <mxGeometry height="100" width="100" x="110" y="100" as="geometry" />
+        </mxCell>
+        <mxCell id="JxXVEn9Mq3JPGflQaSPK-2" parent="JxXVEn9Mq3JPGflQaSPK-1" style="text;html=1;whiteSpace=wrap;strokeColor=#b46504;fillColor=#fad7ac;align=center;verticalAlign=middle;rounded=0;" value="Üniversite Arama ve Filtreleme&amp;nbsp;" vertex="1">
+          <mxGeometry height="80" width="100" y="20" as="geometry" />
+        </mxCell>
+        <mxCell id="JxXVEn9Mq3JPGflQaSPK-11" edge="1" parent="1" source="JxXVEn9Mq3JPGflQaSPK-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;" target="JxXVEn9Mq3JPGflQaSPK-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JxXVEn9Mq3JPGflQaSPK-12" connectable="0" parent="JxXVEn9Mq3JPGflQaSPK-11" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Öğrenci Belge Erişimi" vertex="1">
+          <mxGeometry relative="1" x="0.2408" y="-2" as="geometry">
+            <mxPoint x="17" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JxXVEn9Mq3JPGflQaSPK-3" parent="1" style="swimlane;whiteSpace=wrap;html=1;fillColor=#3399FF;strokeColor=#6c8ebf;startSize=20;" value="3.0" vertex="1">
+          <mxGeometry height="110" width="160" x="280" as="geometry" />
+        </mxCell>
+        <mxCell id="JxXVEn9Mq3JPGflQaSPK-4" parent="JxXVEn9Mq3JPGflQaSPK-3" style="text;html=1;whiteSpace=wrap;strokeColor=#7EA6E0;fillColor=#99CCFF;align=center;verticalAlign=middle;rounded=0;" value="Belge Yükleme ve Doğrulama" vertex="1">
+          <mxGeometry height="90" width="160" y="20" as="geometry" />
+        </mxCell>
+        <mxCell id="JxXVEn9Mq3JPGflQaSPK-13" edge="1" parent="1" source="JxXVEn9Mq3JPGflQaSPK-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;" target="JxXVEn9Mq3JPGflQaSPK-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JxXVEn9Mq3JPGflQaSPK-14" connectable="0" parent="JxXVEn9Mq3JPGflQaSPK-13" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Üniversite Ön Liste Verisi" vertex="1">
+          <mxGeometry relative="1" x="-0.3181" y="2" as="geometry">
+            <mxPoint x="-19" y="-2" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JxXVEn9Mq3JPGflQaSPK-5" parent="1" style="html=1;dashed=0;whiteSpace=wrap;shape=mxgraph.dfd.dataStoreID;align=left;spacingLeft=3;points=[[0,0],[0.5,0],[1,0],[0,0.5],[1,0.5],[0,1],[0.5,1],[1,1]];fillColor=#d5e8d4;strokeColor=#82b366;" value="D5&amp;nbsp; &amp;nbsp;Üniversiteler" vertex="1">
+          <mxGeometry height="30" width="100" x="280" y="240" as="geometry" />
+        </mxCell>
+        <mxCell id="JxXVEn9Mq3JPGflQaSPK-8" edge="1" parent="1" source="JxXVEn9Mq3JPGflQaSPK-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" target="JxXVEn9Mq3JPGflQaSPK-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JxXVEn9Mq3JPGflQaSPK-10" connectable="0" parent="JxXVEn9Mq3JPGflQaSPK-8" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Eğitim ve Üniversite Tercihleri" vertex="1">
+          <mxGeometry relative="1" x="-0.5841" y="-1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JxXVEn9Mq3JPGflQaSPK-6" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" value="" vertex="1">
+          <mxGeometry height="55" width="120" x="-40" y="-40" as="geometry" />
+        </mxCell>
+        <mxCell id="JxXVEn9Mq3JPGflQaSPK-7" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Öğrenci" vertex="1">
+          <mxGeometry height="30" width="60" x="-10" y="-27.5" as="geometry" />
+        </mxCell>
+        <mxCell id="JxXVEn9Mq3JPGflQaSPK-27" edge="1" parent="1" source="JxXVEn9Mq3JPGflQaSPK-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0;entryDx=0;entryDy=0;" target="JxXVEn9Mq3JPGflQaSPK-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JxXVEn9Mq3JPGflQaSPK-28" connectable="0" parent="JxXVEn9Mq3JPGflQaSPK-27" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; text-align: start; background-color: rgb(27, 29, 30);&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20parent%3D%221%22%20style%3D%22html%3D1%3Bdashed%3D0%3BwhiteSpace%3Dwrap%3Bshape%3Dmxgraph.dfd.dataStoreID%3Balign%3Dleft%3BspacingLeft%3D3%3Bpoints%3D%5B%5B0%2C0%5D%2C%5B0.5%2C0%5D%2C%5B1%2C0%5D%2C%5B0%2C0.5%5D%2C%5B1%2C0.5%5D%2C%5B0%2C1%5D%2C%5B0.5%2C1%5D%2C%5B1%2C1%5D%5D%3BfillColor%3D%23d5e8d4%3BstrokeColor%3D%2382b366%3B%22%20value%3D%22D5%26amp%3Bnbsp%3B%20%26amp%3Bnbsp%3B%C3%9Cniversiteler%22%20vertex%3D%221%22%3E%3CmxGeometry%20height%3D%2230%22%20width%3D%22100%22%20x%3D%22220%22%20y%3D%22400%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;" vertex="1">
+          <mxGeometry relative="1" x="0.1013" y="-2" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JxXVEn9Mq3JPGflQaSPK-29" connectable="0" parent="JxXVEn9Mq3JPGflQaSPK-27" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Anlaşma Sorgusu" vertex="1">
+          <mxGeometry relative="1" x="0.084" y="-2" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JxXVEn9Mq3JPGflQaSPK-34" edge="1" parent="1" source="JxXVEn9Mq3JPGflQaSPK-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" target="JxXVEn9Mq3JPGflQaSPK-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JxXVEn9Mq3JPGflQaSPK-35" connectable="0" parent="JxXVEn9Mq3JPGflQaSPK-34" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Hazır Karşılaştırma Veri Seti" vertex="1">
+          <mxGeometry relative="1" x="0.0289" y="-1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JxXVEn9Mq3JPGflQaSPK-15" parent="1" style="swimlane;whiteSpace=wrap;html=1;fillColor=#a0522d;strokeColor=#6D1F00;startSize=20;fontColor=#ffffff;" value="5.2" vertex="1">
+          <mxGeometry height="100" width="100" y="320" as="geometry" />
+        </mxCell>
+        <mxCell id="JxXVEn9Mq3JPGflQaSPK-16" parent="JxXVEn9Mq3JPGflQaSPK-15" style="text;html=1;whiteSpace=wrap;strokeColor=#b46504;fillColor=#fad7ac;align=center;verticalAlign=middle;rounded=0;" value="Kriter ve Detaylı Veri Toplama" vertex="1">
+          <mxGeometry height="80" width="100" y="20" as="geometry" />
+        </mxCell>
+        <mxCell id="JxXVEn9Mq3JPGflQaSPK-24" edge="1" parent="1" source="JxXVEn9Mq3JPGflQaSPK-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=1;entryDx=0;entryDy=0;" target="JxXVEn9Mq3JPGflQaSPK-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JxXVEn9Mq3JPGflQaSPK-25" connectable="0" parent="JxXVEn9Mq3JPGflQaSPK-24" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Üniversite Detayları ve Öğrenci Yorumları" vertex="1">
+          <mxGeometry relative="1" x="-0.0235" y="2" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JxXVEn9Mq3JPGflQaSPK-19" parent="1" style="html=1;dashed=0;whiteSpace=wrap;shape=mxgraph.dfd.dataStoreID;align=left;spacingLeft=3;points=[[0,0],[0.5,0],[1,0],[0,0.5],[1,0.5],[0,1],[0.5,1],[1,1]];fillColor=#d5e8d4;strokeColor=#82b366;" value="D5&amp;nbsp; &amp;nbsp;Üniversiteler" vertex="1">
+          <mxGeometry height="30" width="100" x="220" y="400" as="geometry" />
+        </mxCell>
+        <mxCell id="JxXVEn9Mq3JPGflQaSPK-20" edge="1" parent="1" source="JxXVEn9Mq3JPGflQaSPK-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="JxXVEn9Mq3JPGflQaSPK-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JxXVEn9Mq3JPGflQaSPK-21" connectable="0" parent="JxXVEn9Mq3JPGflQaSPK-20" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Detaylı Veri Sorgusu (Eğitim Kalitesi, Şehir, Ders)" vertex="1">
+          <mxGeometry relative="1" x="-0.1661" as="geometry">
+            <mxPoint x="53" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JxXVEn9Mq3JPGflQaSPK-30" edge="1" parent="1" source="JxXVEn9Mq3JPGflQaSPK-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" target="JxXVEn9Mq3JPGflQaSPK-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JxXVEn9Mq3JPGflQaSPK-31" connectable="0" parent="JxXVEn9Mq3JPGflQaSPK-30" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Erasmus Anlaşma Durumu" vertex="1">
+          <mxGeometry relative="1" x="0.1429" y="1" as="geometry">
+            <mxPoint x="-1" y="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JxXVEn9Mq3JPGflQaSPK-26" parent="1" style="html=1;dashed=0;whiteSpace=wrap;shape=mxgraph.dfd.dataStoreID;align=left;spacingLeft=3;points=[[0,0],[0.5,0],[1,0],[0,0.5],[1,0.5],[0,1],[0.5,1],[1,1]];fillColor=#d5e8d4;strokeColor=#82b366;" value="D6&amp;nbsp; &amp;nbsp; Anlaşmalar" vertex="1">
+          <mxGeometry height="30" width="100" x="-280" y="320" as="geometry" />
+        </mxCell>
+        <mxCell id="JxXVEn9Mq3JPGflQaSPK-40" edge="1" parent="1" source="JxXVEn9Mq3JPGflQaSPK-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" target="JxXVEn9Mq3JPGflQaSPK-36">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JxXVEn9Mq3JPGflQaSPK-41" connectable="0" parent="JxXVEn9Mq3JPGflQaSPK-40" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Filtrelenmiş Karşılaştırma Bilgileri" vertex="1">
+          <mxGeometry relative="1" x="0.0256" y="2" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JxXVEn9Mq3JPGflQaSPK-42" edge="1" parent="1" source="JxXVEn9Mq3JPGflQaSPK-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" target="JxXVEn9Mq3JPGflQaSPK-36">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JxXVEn9Mq3JPGflQaSPK-43" connectable="0" parent="JxXVEn9Mq3JPGflQaSPK-42" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Yan Yana Karşılaştırma Talebi (En az 2 Üniversite)" vertex="1">
+          <mxGeometry relative="1" x="0.1389" y="-1" as="geometry">
+            <mxPoint x="15" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JxXVEn9Mq3JPGflQaSPK-48" edge="1" parent="1" source="JxXVEn9Mq3JPGflQaSPK-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0;entryDx=0;entryDy=0;" target="JxXVEn9Mq3JPGflQaSPK-46">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JxXVEn9Mq3JPGflQaSPK-49" connectable="0" parent="JxXVEn9Mq3JPGflQaSPK-48" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Şehir Bazlı Yaşam Maliyeti Verisi" vertex="1">
+          <mxGeometry relative="1" x="-0.2543" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JxXVEn9Mq3JPGflQaSPK-50" edge="1" parent="1" source="JxXVEn9Mq3JPGflQaSPK-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" target="JxXVEn9Mq3JPGflQaSPK-44">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JxXVEn9Mq3JPGflQaSPK-51" connectable="0" parent="JxXVEn9Mq3JPGflQaSPK-50" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Analiz Edilmiş Karşılaştırma Verisi" vertex="1">
+          <mxGeometry relative="1" x="-0.0293" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JxXVEn9Mq3JPGflQaSPK-32" parent="1" style="swimlane;whiteSpace=wrap;html=1;fillColor=#a0522d;strokeColor=#6D1F00;startSize=20;fontColor=#ffffff;" value="5.3" vertex="1">
+          <mxGeometry height="100" width="100" x="-80" y="520" as="geometry" />
+        </mxCell>
+        <mxCell id="JxXVEn9Mq3JPGflQaSPK-33" parent="JxXVEn9Mq3JPGflQaSPK-32" style="text;html=1;whiteSpace=wrap;strokeColor=#b46504;fillColor=#fad7ac;align=center;verticalAlign=middle;rounded=0;" value="Çok Kriterli Karşılaştırma Motoru" vertex="1">
+          <mxGeometry height="80" width="100" y="20" as="geometry" />
+        </mxCell>
+        <mxCell id="JxXVEn9Mq3JPGflQaSPK-36" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" value="" vertex="1">
+          <mxGeometry height="55" width="120" x="-360" y="520" as="geometry" />
+        </mxCell>
+        <mxCell id="JxXVEn9Mq3JPGflQaSPK-37" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Öğrenci" vertex="1">
+          <mxGeometry height="30" width="60" x="-330" y="532.5" as="geometry" />
+        </mxCell>
+        <mxCell id="JxXVEn9Mq3JPGflQaSPK-44" parent="1" style="swimlane;whiteSpace=wrap;html=1;fillColor=#a0522d;strokeColor=#6D1F00;startSize=20;fontColor=#ffffff;" value="5.4" vertex="1">
+          <mxGeometry height="100" width="100" x="-120" y="720" as="geometry" />
+        </mxCell>
+        <mxCell id="JxXVEn9Mq3JPGflQaSPK-45" parent="JxXVEn9Mq3JPGflQaSPK-44" style="text;html=1;whiteSpace=wrap;strokeColor=#b46504;fillColor=#fad7ac;align=center;verticalAlign=middle;rounded=0;" value="AI Destekli Karar Destek Sistemi" vertex="1">
+          <mxGeometry height="80" width="100" y="20" as="geometry" />
+        </mxCell>
+        <mxCell id="JxXVEn9Mq3JPGflQaSPK-60" edge="1" parent="1" source="JxXVEn9Mq3JPGflQaSPK-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0;entryDx=0;entryDy=0;" target="JxXVEn9Mq3JPGflQaSPK-56">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JxXVEn9Mq3JPGflQaSPK-61" connectable="0" parent="JxXVEn9Mq3JPGflQaSPK-60" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Kişisel Bütçe Değerlendirmesi" vertex="1">
+          <mxGeometry relative="1" x="-0.4505" y="3" as="geometry">
+            <mxPoint x="-1" y="3" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JxXVEn9Mq3JPGflQaSPK-46" parent="1" style="swimlane;whiteSpace=wrap;html=1;fillColor=#a0522d;strokeColor=#6D1F00;startSize=20;fontColor=#ffffff;" value="5.5" vertex="1">
+          <mxGeometry height="100" width="100" x="200" y="600" as="geometry" />
+        </mxCell>
+        <mxCell id="JxXVEn9Mq3JPGflQaSPK-47" parent="JxXVEn9Mq3JPGflQaSPK-46" style="text;html=1;whiteSpace=wrap;strokeColor=#b46504;fillColor=#fad7ac;align=center;verticalAlign=middle;rounded=0;" value="Kişisel Bütçe Analizi ve Değerlendirme Akışları" vertex="1">
+          <mxGeometry height="80" width="100" y="20" as="geometry" />
+        </mxCell>
+        <mxCell id="JxXVEn9Mq3JPGflQaSPK-52" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" value="" vertex="1">
+          <mxGeometry height="55" width="120" x="-280" y="920" as="geometry" />
+        </mxCell>
+        <mxCell id="JxXVEn9Mq3JPGflQaSPK-53" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Öğrenci" vertex="1">
+          <mxGeometry height="30" width="60" x="-250" y="932.5" as="geometry" />
+        </mxCell>
+        <mxCell id="JxXVEn9Mq3JPGflQaSPK-54" edge="1" parent="1" source="JxXVEn9Mq3JPGflQaSPK-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="JxXVEn9Mq3JPGflQaSPK-52">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JxXVEn9Mq3JPGflQaSPK-55" connectable="0" parent="JxXVEn9Mq3JPGflQaSPK-54" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Üniversite Karşılaştırma Sonucu ve AI Desteği" vertex="1">
+          <mxGeometry relative="1" x="0.5846" y="2" as="geometry">
+            <mxPoint y="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JxXVEn9Mq3JPGflQaSPK-58" edge="1" parent="1" source="JxXVEn9Mq3JPGflQaSPK-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=1;entryDx=0;entryDy=0;" target="JxXVEn9Mq3JPGflQaSPK-46">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JxXVEn9Mq3JPGflQaSPK-59" connectable="0" parent="JxXVEn9Mq3JPGflQaSPK-58" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Kişisel Bütçe ve Tercih Verileri" vertex="1">
+          <mxGeometry relative="1" x="0.0718" y="-3" as="geometry">
+            <mxPoint x="10" y="3" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JxXVEn9Mq3JPGflQaSPK-56" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" value="" vertex="1">
+          <mxGeometry height="55" width="120" x="360" y="800" as="geometry" />
+        </mxCell>
+        <mxCell id="JxXVEn9Mq3JPGflQaSPK-57" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Öğrenci" vertex="1">
+          <mxGeometry height="30" width="60" x="390" y="812.5" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

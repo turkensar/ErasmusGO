@@ -1,0 +1,329 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Sayfa-1" id="TmP8xEcqQEZQLjHf0J0W">
+    <mxGraphModel dx="2199" dy="789" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="iK2ZcbJkTu4wb_1HxMQE-1" parent="1" style="swimlane;whiteSpace=wrap;html=1;fillColor=#a0522d;strokeColor=#6D1F00;startSize=20;fontColor=#ffffff;" value="2.3" vertex="1">
+          <mxGeometry height="100" width="100" x="130" y="470" as="geometry" />
+        </mxCell>
+        <mxCell id="iK2ZcbJkTu4wb_1HxMQE-2" parent="iK2ZcbJkTu4wb_1HxMQE-1" style="text;html=1;whiteSpace=wrap;strokeColor=#b46504;fillColor=#fad7ac;align=center;verticalAlign=middle;rounded=0;" value="Şifre Güncelleme" vertex="1">
+          <mxGeometry height="80" width="100" y="20" as="geometry" />
+        </mxCell>
+        <mxCell id="iK2ZcbJkTu4wb_1HxMQE-4" parent="1" style="swimlane;whiteSpace=wrap;html=1;fillColor=#a0522d;strokeColor=#6D1F00;startSize=20;fontColor=#ffffff;" value="2.4" vertex="1">
+          <mxGeometry height="100" width="100" x="130" y="650" as="geometry" />
+        </mxCell>
+        <mxCell id="iK2ZcbJkTu4wb_1HxMQE-5" parent="iK2ZcbJkTu4wb_1HxMQE-4" style="text;html=1;whiteSpace=wrap;strokeColor=#b46504;fillColor=#fad7ac;align=center;verticalAlign=middle;rounded=0;" value="Profil Doğrulama" vertex="1">
+          <mxGeometry height="80" width="100" y="20" as="geometry" />
+        </mxCell>
+        <mxCell id="iK2ZcbJkTu4wb_1HxMQE-7" parent="1" style="swimlane;whiteSpace=wrap;html=1;fillColor=#a0522d;strokeColor=#6D1F00;startSize=20;fontColor=#ffffff;" value="2.1" vertex="1">
+          <mxGeometry height="100" width="100" x="120" y="105" as="geometry" />
+        </mxCell>
+        <mxCell id="iK2ZcbJkTu4wb_1HxMQE-8" parent="iK2ZcbJkTu4wb_1HxMQE-7" style="text;html=1;whiteSpace=wrap;strokeColor=#b46504;fillColor=#fad7ac;align=center;verticalAlign=middle;rounded=0;" value="Profil Görüntüleme" vertex="1">
+          <mxGeometry height="80" width="100" y="20" as="geometry" />
+        </mxCell>
+        <mxCell id="iK2ZcbJkTu4wb_1HxMQE-103" edge="1" parent="1" source="iK2ZcbJkTu4wb_1HxMQE-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fillColor=#e51400;strokeColor=#B20000;" target="iK2ZcbJkTu4wb_1HxMQE-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iK2ZcbJkTu4wb_1HxMQE-104" connectable="0" parent="iK2ZcbJkTu4wb_1HxMQE-103" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Güncellenmiş Profil Bilgisi" vertex="1">
+          <mxGeometry relative="1" x="-0.3098" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iK2ZcbJkTu4wb_1HxMQE-9" parent="1" style="swimlane;whiteSpace=wrap;html=1;fillColor=#a0522d;strokeColor=#6D1F00;startSize=20;fontColor=#ffffff;" value="2.2" vertex="1">
+          <mxGeometry height="100" width="100" x="120" y="280" as="geometry" />
+        </mxCell>
+        <mxCell id="iK2ZcbJkTu4wb_1HxMQE-10" parent="iK2ZcbJkTu4wb_1HxMQE-9" style="text;html=1;whiteSpace=wrap;strokeColor=#b46504;fillColor=#fad7ac;align=center;verticalAlign=middle;rounded=0;" value="Profil Güncelleme" vertex="1">
+          <mxGeometry height="80" width="100" y="20" as="geometry" />
+        </mxCell>
+        <mxCell id="iK2ZcbJkTu4wb_1HxMQE-31" edge="1" parent="1" source="iK2ZcbJkTu4wb_1HxMQE-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#e51400;strokeColor=#B20000;" target="iK2ZcbJkTu4wb_1HxMQE-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iK2ZcbJkTu4wb_1HxMQE-32" connectable="0" parent="iK2ZcbJkTu4wb_1HxMQE-31" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Profil Görüntüleme Talebi" vertex="1">
+          <mxGeometry relative="1" x="-0.0899" y="-5" as="geometry">
+            <mxPoint y="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iK2ZcbJkTu4wb_1HxMQE-119" edge="1" parent="1" source="iK2ZcbJkTu4wb_1HxMQE-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;endArrow=none;endFill=0;fillColor=#e51400;strokeColor=#B20000;startArrow=classic;startFill=1;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-230" y="520" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iK2ZcbJkTu4wb_1HxMQE-11" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" value="&lt;div&gt;Öğrenci&lt;/div&gt;" vertex="1">
+          <mxGeometry height="65" width="120" x="-260" y="120" as="geometry" />
+        </mxCell>
+        <mxCell id="iK2ZcbJkTu4wb_1HxMQE-12" parent="1" style="html=1;dashed=0;whiteSpace=wrap;shape=mxgraph.dfd.dataStoreID;align=left;spacingLeft=3;points=[[0,0],[0.5,0],[1,0],[0,0.5],[1,0.5],[0,1],[0.5,1],[1,1]];fillColor=#d5e8d4;strokeColor=#82b366;" value="D1&amp;nbsp; &amp;nbsp; &amp;nbsp; Kullanıcılar" vertex="1">
+          <mxGeometry height="30" width="110" x="400" y="685" as="geometry" />
+        </mxCell>
+        <mxCell id="iK2ZcbJkTu4wb_1HxMQE-13" parent="1" style="html=1;dashed=0;whiteSpace=wrap;shape=mxgraph.dfd.dataStoreID;align=left;spacingLeft=3;points=[[0,0],[0.5,0],[1,0],[0,0.5],[1,0.5],[0,1],[0.5,1],[1,1]];fillColor=#d5e8d4;strokeColor=#82b366;" value="D2&amp;nbsp; &amp;nbsp; &amp;nbsp;Profiller" vertex="1">
+          <mxGeometry height="30" width="100" x="390" y="290" as="geometry" />
+        </mxCell>
+        <mxCell id="iK2ZcbJkTu4wb_1HxMQE-113" edge="1" parent="1" source="iK2ZcbJkTu4wb_1HxMQE-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;fillColor=#e51400;strokeColor=#B20000;" target="iK2ZcbJkTu4wb_1HxMQE-111">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iK2ZcbJkTu4wb_1HxMQE-116" connectable="0" parent="iK2ZcbJkTu4wb_1HxMQE-113" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Kullanıcı Bilgisi Kaydet" vertex="1">
+          <mxGeometry relative="1" x="-0.0825" y="2" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iK2ZcbJkTu4wb_1HxMQE-15" parent="1" style="swimlane;whiteSpace=wrap;html=1;fillColor=#a0522d;strokeColor=#6D1F00;startSize=20;fontColor=#ffffff;" value="2.5" vertex="1">
+          <mxGeometry height="100" width="100" x="130" y="830" as="geometry" />
+        </mxCell>
+        <mxCell id="iK2ZcbJkTu4wb_1HxMQE-16" parent="iK2ZcbJkTu4wb_1HxMQE-15" style="text;html=1;whiteSpace=wrap;strokeColor=#b46504;fillColor=#fad7ac;align=center;verticalAlign=middle;rounded=0;" value="Profil Kaydetme" vertex="1">
+          <mxGeometry height="80" width="100" y="20" as="geometry" />
+        </mxCell>
+        <mxCell id="iK2ZcbJkTu4wb_1HxMQE-80" edge="1" parent="1" source="iK2ZcbJkTu4wb_1HxMQE-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;fillColor=#e51400;strokeColor=#B20000;" target="iK2ZcbJkTu4wb_1HxMQE-5">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-60" y="840" />
+              <mxPoint x="-60" y="730" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iK2ZcbJkTu4wb_1HxMQE-86" connectable="0" parent="iK2ZcbJkTu4wb_1HxMQE-80" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Doğrulama Talebi" vertex="1">
+          <mxGeometry relative="1" x="-0.0085" y="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iK2ZcbJkTu4wb_1HxMQE-81" edge="1" parent="1" source="iK2ZcbJkTu4wb_1HxMQE-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;fillColor=#e51400;strokeColor=#B20000;startArrow=classic;startFill=1;" target="iK2ZcbJkTu4wb_1HxMQE-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iK2ZcbJkTu4wb_1HxMQE-93" connectable="0" parent="iK2ZcbJkTu4wb_1HxMQE-81" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Doğrulama Sonucu" vertex="1">
+          <mxGeometry relative="1" x="0.0649" y="-2" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iK2ZcbJkTu4wb_1HxMQE-17" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" value="Akademisyen Koordinatör" vertex="1">
+          <mxGeometry height="60" width="120" x="-360" y="830" as="geometry" />
+        </mxCell>
+        <mxCell id="iK2ZcbJkTu4wb_1HxMQE-18" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" value="Admin" vertex="1">
+          <mxGeometry height="60" width="120" x="-350" y="650" as="geometry" />
+        </mxCell>
+        <mxCell id="iK2ZcbJkTu4wb_1HxMQE-35" edge="1" parent="1" source="iK2ZcbJkTu4wb_1HxMQE-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=1.025;entryY=0.908;entryDx=0;entryDy=0;entryPerimeter=0;fillColor=#e51400;strokeColor=#B20000;" target="iK2ZcbJkTu4wb_1HxMQE-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iK2ZcbJkTu4wb_1HxMQE-36" connectable="0" parent="iK2ZcbJkTu4wb_1HxMQE-35" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Profil Bilgisi" vertex="1">
+          <mxGeometry relative="1" x="0.0233" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iK2ZcbJkTu4wb_1HxMQE-37" edge="1" parent="1" source="iK2ZcbJkTu4wb_1HxMQE-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;fillColor=#e51400;strokeColor=#B20000;endArrow=classic;endFill=1;startArrow=classic;startFill=1;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="157" y="279" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iK2ZcbJkTu4wb_1HxMQE-38" connectable="0" parent="iK2ZcbJkTu4wb_1HxMQE-37" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Profil Güncelleme Bilgisi" vertex="1">
+          <mxGeometry relative="1" x="0.0333" y="3" as="geometry">
+            <mxPoint y="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iK2ZcbJkTu4wb_1HxMQE-57" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;fillColor=#e51400;strokeColor=#B20000;startArrow=none;startFill=0;endFill=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="-200" y="310" as="sourcePoint" />
+            <mxPoint x="-200" y="185" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iK2ZcbJkTu4wb_1HxMQE-61" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;endFill=0;startArrow=none;startFill=0;fillColor=#e51400;strokeColor=#B20000;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="-200" y="480" as="sourcePoint" />
+            <mxPoint x="-200" y="310" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iK2ZcbJkTu4wb_1HxMQE-62" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;fillColor=#e51400;strokeColor=#B20000;endFill=1;entryX=-0.01;entryY=0.363;entryDx=0;entryDy=0;entryPerimeter=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <Array as="points">
+              <mxPoint x="81" y="480" />
+              <mxPoint x="111" y="480" />
+            </Array>
+            <mxPoint x="-139" y="480.5" as="sourcePoint" />
+            <mxPoint x="130" y="480.03999999999996" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iK2ZcbJkTu4wb_1HxMQE-63" connectable="0" parent="iK2ZcbJkTu4wb_1HxMQE-62" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Şifre Değişiklik Talebi" vertex="1">
+          <mxGeometry relative="1" x="0.08" y="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iK2ZcbJkTu4wb_1HxMQE-75" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;entryX=0.02;entryY=0.138;entryDx=0;entryDy=0;entryPerimeter=0;endFill=1;fillColor=#e51400;strokeColor=#B20000;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="-230" y="660" as="sourcePoint" />
+            <mxPoint x="122" y="661" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iK2ZcbJkTu4wb_1HxMQE-76" connectable="0" parent="iK2ZcbJkTu4wb_1HxMQE-75" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Doğrulama Talebi" vertex="1">
+          <mxGeometry relative="1" x="0.0057" y="-1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iK2ZcbJkTu4wb_1HxMQE-77" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;startArrow=classic;startFill=1;fillColor=#e51400;strokeColor=#B20000;entryX=0.01;entryY=0.35;entryDx=0;entryDy=0;entryPerimeter=0;" target="iK2ZcbJkTu4wb_1HxMQE-5" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="-230" y="699.5" as="sourcePoint" />
+            <mxPoint x="120" y="699.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iK2ZcbJkTu4wb_1HxMQE-78" connectable="0" parent="iK2ZcbJkTu4wb_1HxMQE-77" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Doğrulama Sonucu" vertex="1">
+          <mxGeometry relative="1" x="-0.0629" y="3" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iK2ZcbJkTu4wb_1HxMQE-79" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;fillColor=#e51400;strokeColor=#B20000;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="-200" y="480" as="sourcePoint" />
+            <mxPoint x="-130" y="480" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iK2ZcbJkTu4wb_1HxMQE-83" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;startArrow=none;startFill=0;endFill=1;fillColor=#e51400;strokeColor=#B20000;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="-300" y="1000" as="sourcePoint" />
+            <mxPoint x="-300" y="890" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iK2ZcbJkTu4wb_1HxMQE-84" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;fillColor=#e51400;strokeColor=#B20000;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="-300" y="1000" as="sourcePoint" />
+            <mxPoint x="180" y="1000" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iK2ZcbJkTu4wb_1HxMQE-92" connectable="0" parent="iK2ZcbJkTu4wb_1HxMQE-84" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="İşlem Başarı Bilgisi" vertex="1">
+          <mxGeometry relative="1" x="-0.034" y="-2" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iK2ZcbJkTu4wb_1HxMQE-85" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fillColor=#e51400;strokeColor=#B20000;" target="iK2ZcbJkTu4wb_1HxMQE-15" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <Array as="points">
+              <mxPoint x="180" y="1000" />
+            </Array>
+            <mxPoint x="170" y="1000" as="sourcePoint" />
+            <mxPoint x="220" y="950" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iK2ZcbJkTu4wb_1HxMQE-87" edge="1" parent="1" source="iK2ZcbJkTu4wb_1HxMQE-15" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;endFill=0;startArrow=classic;startFill=1;fillColor=#e51400;strokeColor=#B20000;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <Array as="points">
+              <mxPoint x="180" y="750" />
+            </Array>
+            <mxPoint x="169.5" y="810" as="sourcePoint" />
+            <mxPoint x="169.5" y="750" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iK2ZcbJkTu4wb_1HxMQE-88" connectable="0" parent="iK2ZcbJkTu4wb_1HxMQE-87" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Doğrulama Onayı" vertex="1">
+          <mxGeometry relative="1" x="0.0855" y="-1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iK2ZcbJkTu4wb_1HxMQE-89" edge="1" parent="1" source="iK2ZcbJkTu4wb_1HxMQE-4" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;startArrow=classic;startFill=1;fillColor=#e51400;strokeColor=#B20000;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <Array as="points">
+              <mxPoint x="180" y="570" />
+            </Array>
+            <mxPoint x="120" y="620" as="sourcePoint" />
+            <mxPoint x="170" y="570" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iK2ZcbJkTu4wb_1HxMQE-90" connectable="0" parent="iK2ZcbJkTu4wb_1HxMQE-89" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Şifre Bilgisi" vertex="1">
+          <mxGeometry relative="1" x="-0.025" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iK2ZcbJkTu4wb_1HxMQE-94" edge="1" parent="1" source="iK2ZcbJkTu4wb_1HxMQE-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.57;entryY=-0.067;entryDx=0;entryDy=0;entryPerimeter=0;fillColor=#e51400;strokeColor=#B20000;" target="iK2ZcbJkTu4wb_1HxMQE-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iK2ZcbJkTu4wb_1HxMQE-95" connectable="0" parent="iK2ZcbJkTu4wb_1HxMQE-94" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Mevcut Profil Bilgisi İsteği" vertex="1">
+          <mxGeometry relative="1" x="-0.3722" y="-2" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iK2ZcbJkTu4wb_1HxMQE-96" edge="1" parent="1" source="iK2ZcbJkTu4wb_1HxMQE-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0.11;entryY=0.033;entryDx=0;entryDy=0;entryPerimeter=0;startArrow=classic;startFill=1;fillColor=#e51400;strokeColor=#B20000;" target="iK2ZcbJkTu4wb_1HxMQE-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iK2ZcbJkTu4wb_1HxMQE-97" connectable="0" parent="iK2ZcbJkTu4wb_1HxMQE-96" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Mevcut Profil Bilgisi" vertex="1">
+          <mxGeometry relative="1" x="-0.3101" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iK2ZcbJkTu4wb_1HxMQE-98" edge="1" parent="1" source="iK2ZcbJkTu4wb_1HxMQE-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0;entryDx=0;entryDy=0;fillColor=#e51400;strokeColor=#B20000;" target="iK2ZcbJkTu4wb_1HxMQE-13">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="305" y="300" />
+              <mxPoint x="305" y="270" />
+              <mxPoint x="390" y="270" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iK2ZcbJkTu4wb_1HxMQE-99" connectable="0" parent="iK2ZcbJkTu4wb_1HxMQE-98" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Mevcut Profil Bilgisi İsteği" vertex="1">
+          <mxGeometry relative="1" x="0.0182" y="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iK2ZcbJkTu4wb_1HxMQE-101" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;endFill=0;startArrow=classic;startFill=1;fillColor=#e51400;strokeColor=#B20000;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <Array as="points">
+              <mxPoint x="380" y="320" />
+            </Array>
+            <mxPoint x="220" y="320" as="sourcePoint" />
+            <mxPoint x="390" y="320" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iK2ZcbJkTu4wb_1HxMQE-102" connectable="0" parent="iK2ZcbJkTu4wb_1HxMQE-101" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Mevcut Profil Bilgisi" vertex="1">
+          <mxGeometry relative="1" x="-0.0706" y="-3" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iK2ZcbJkTu4wb_1HxMQE-106" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;endFill=1;fillColor=#e51400;strokeColor=#B20000;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="230" y="690" as="sourcePoint" />
+            <mxPoint x="400" y="690" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iK2ZcbJkTu4wb_1HxMQE-110" connectable="0" parent="iK2ZcbJkTu4wb_1HxMQE-106" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Kullanıcı Kontrol İsteği" vertex="1">
+          <mxGeometry relative="1" x="-0.1529" y="-1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iK2ZcbJkTu4wb_1HxMQE-107" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;startArrow=classic;startFill=1;fillColor=#e51400;strokeColor=#B20000;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="230" y="735" as="sourcePoint" />
+            <mxPoint x="460" y="735" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iK2ZcbJkTu4wb_1HxMQE-109" connectable="0" parent="iK2ZcbJkTu4wb_1HxMQE-107" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Kullanıcı Bilgisi" vertex="1">
+          <mxGeometry relative="1" x="-0.0087" y="-2" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iK2ZcbJkTu4wb_1HxMQE-108" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="460" y="735" as="sourcePoint" />
+            <mxPoint x="460" y="714" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iK2ZcbJkTu4wb_1HxMQE-111" parent="1" style="html=1;dashed=0;whiteSpace=wrap;shape=mxgraph.dfd.dataStoreID;align=left;spacingLeft=3;points=[[0,0],[0.5,0],[1,0],[0,0.5],[1,0.5],[0,1],[0.5,1],[1,1]];fillColor=#d5e8d4;strokeColor=#82b366;" value="D1&amp;nbsp; &amp;nbsp; &amp;nbsp; Kullanıcılar" vertex="1">
+          <mxGeometry height="30" width="110" x="414" y="830" as="geometry" />
+        </mxCell>
+        <mxCell id="iK2ZcbJkTu4wb_1HxMQE-112" parent="1" style="html=1;dashed=0;whiteSpace=wrap;shape=mxgraph.dfd.dataStoreID;align=left;spacingLeft=3;points=[[0,0],[0.5,0],[1,0],[0,0.5],[1,0.5],[0,1],[0.5,1],[1,1]];fillColor=#d5e8d4;strokeColor=#82b366;" value="D2&amp;nbsp; &amp;nbsp; &amp;nbsp;Profiller" vertex="1">
+          <mxGeometry height="30" width="100" x="414" y="900" as="geometry" />
+        </mxCell>
+        <mxCell id="iK2ZcbJkTu4wb_1HxMQE-115" edge="1" parent="1" source="iK2ZcbJkTu4wb_1HxMQE-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.11;entryY=1.033;entryDx=0;entryDy=0;entryPerimeter=0;fillColor=#e51400;strokeColor=#B20000;" target="iK2ZcbJkTu4wb_1HxMQE-112">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iK2ZcbJkTu4wb_1HxMQE-117" connectable="0" parent="iK2ZcbJkTu4wb_1HxMQE-115" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Profil Bilgisi Kaydet" vertex="1">
+          <mxGeometry relative="1" x="0.1313" y="-2" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iK2ZcbJkTu4wb_1HxMQE-120" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;fillColor=#e51400;strokeColor=#B20000;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="-230" y="520" as="sourcePoint" />
+            <mxPoint x="130" y="520" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iK2ZcbJkTu4wb_1HxMQE-121" connectable="0" parent="iK2ZcbJkTu4wb_1HxMQE-120" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Text" vertex="1">
+          <mxGeometry relative="1" x="-0.1222" y="-2" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

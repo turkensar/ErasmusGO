@@ -1,0 +1,335 @@
+<mxfile host="Electron" agent="Mozilla/5.0">
+  <diagram name="Kavramsal ER" id="kavramsal_er">
+    <mxGraphModel dx="3293" dy="1018" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="1200" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="kullanici" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#DAE8FC;strokeColor=#6C8EBF;fontSize=14;fontStyle=1;fontFamily=Times New Roman;" value="KULLANICI" vertex="1">
+          <mxGeometry height="70" width="160" x="680" y="500" as="geometry" />
+        </mxCell>
+        <mxCell id="profil" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#DAE8FC;strokeColor=#6C8EBF;fontSize=13;fontStyle=1;fontFamily=Times New Roman;" value="PROFİL" vertex="1">
+          <mxGeometry height="60" width="140" x="230" y="625" as="geometry" />
+        </mxCell>
+        <mxCell id="belge" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#DAE8FC;strokeColor=#6C8EBF;fontSize=13;fontStyle=1;fontFamily=Times New Roman;" value="BELGE" vertex="1">
+          <mxGeometry height="60" width="140" x="200" y="370" as="geometry" />
+        </mxCell>
+        <mxCell id="basvuru" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#DAE8FC;strokeColor=#6C8EBF;fontSize=13;fontStyle=1;fontFamily=Times New Roman;" value="BAŞVURU" vertex="1">
+          <mxGeometry height="60" width="140" x="300" y="250" as="geometry" />
+        </mxCell>
+        <mxCell id="universite" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#DAE8FC;strokeColor=#6C8EBF;fontSize=13;fontStyle=1;fontFamily=Times New Roman;" value="ÜNİVERSİTE" vertex="1">
+          <mxGeometry height="60" width="140" x="540" y="120" as="geometry" />
+        </mxCell>
+        <mxCell id="anlasma" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#DAE8FC;strokeColor=#6C8EBF;fontSize=13;fontStyle=1;fontFamily=Times New Roman;" value="ANLAŞMA" vertex="1">
+          <mxGeometry height="60" width="140" x="830" y="120" as="geometry" />
+        </mxCell>
+        <mxCell id="seyahat" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#DAE8FC;strokeColor=#6C8EBF;fontSize=13;fontStyle=1;fontFamily=Times New Roman;" value="SEYAHAT" vertex="1">
+          <mxGeometry height="60" width="140" x="-20" y="250" as="geometry" />
+        </mxCell>
+        <mxCell id="forum_yazisi" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#DAE8FC;strokeColor=#6C8EBF;fontSize=13;fontStyle=1;fontFamily=Times New Roman;" value="FORUM YAZISI" vertex="1">
+          <mxGeometry height="60" width="140" x="830" y="320" as="geometry" />
+        </mxCell>
+        <mxCell id="forum_cevabi" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#DAE8FC;strokeColor=#6C8EBF;fontSize=13;fontStyle=1;fontFamily=Times New Roman;" value="FORUM CEVABI" vertex="1">
+          <mxGeometry height="60" width="140" x="1200" y="350" as="geometry" />
+        </mxCell>
+        <mxCell id="kategori" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#DAE8FC;strokeColor=#6C8EBF;fontSize=13;fontStyle=1;fontFamily=Times New Roman;" value="KATEGORİ" vertex="1">
+          <mxGeometry height="60" width="140" x="1200" y="150" as="geometry" />
+        </mxCell>
+        <mxCell id="mesaj" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#DAE8FC;strokeColor=#6C8EBF;fontSize=13;fontStyle=1;fontFamily=Times New Roman;" value="MESAJ" vertex="1">
+          <mxGeometry height="60" width="140" x="1080" y="590" as="geometry" />
+        </mxCell>
+        <mxCell id="bildirim" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#DAE8FC;strokeColor=#6C8EBF;fontSize=13;fontStyle=1;fontFamily=Times New Roman;" value="BİLDİRİM" vertex="1">
+          <mxGeometry height="60" width="140" x="840" y="840" as="geometry" />
+        </mxCell>
+        <mxCell id="odeme" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#DAE8FC;strokeColor=#6C8EBF;fontSize=13;fontStyle=1;fontFamily=Times New Roman;" value="ÖDEME" vertex="1">
+          <mxGeometry height="60" width="140" x="640" y="830" as="geometry" />
+        </mxCell>
+        <mxCell id="grup" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#DAE8FC;strokeColor=#6C8EBF;fontSize=13;fontStyle=1;fontFamily=Times New Roman;" value="GRUP" vertex="1">
+          <mxGeometry height="60" width="140" x="280" y="920" as="geometry" />
+        </mxCell>
+        <mxCell id="rozet" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#DAE8FC;strokeColor=#6C8EBF;fontSize=13;fontStyle=1;fontFamily=Times New Roman;" value="ROZET" vertex="1">
+          <mxGeometry height="60" width="140" x="-40" y="660" as="geometry" />
+        </mxCell>
+        <mxCell id="dil_icerigi" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#DAE8FC;strokeColor=#6C8EBF;fontSize=13;fontStyle=1;fontFamily=Times New Roman;" value="DİL İÇERİĞİ" vertex="1">
+          <mxGeometry height="60" width="140" x="10" y="910" as="geometry" />
+        </mxCell>
+        <mxCell id="log" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#DAE8FC;strokeColor=#6C8EBF;fontSize=13;fontStyle=1;fontFamily=Times New Roman;" value="LOG" vertex="1">
+          <mxGeometry height="60" width="140" x="1200" y="820" as="geometry" />
+        </mxCell>
+        <mxCell id="guvenlik_log" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#DAE8FC;strokeColor=#6C8EBF;fontSize=13;fontStyle=1;fontFamily=Times New Roman;" value="GÜVENLİK LOGU" vertex="1">
+          <mxGeometry height="60" width="140" x="1200" y="950" as="geometry" />
+        </mxCell>
+        <mxCell id="kullanici_rozet" parent="1" style="rhombus;whiteSpace=wrap;html=1;fillColor=#F8CECC;strokeColor=#B85450;fontSize=11;fontStyle=1;fontFamily=Times New Roman;" value="KULLANICI_&#xa;ROZET" vertex="1">
+          <mxGeometry height="80" width="120" x="190" y="510" as="geometry" />
+        </mxCell>
+        <mxCell id="grup_uyeligi" parent="1" style="rhombus;whiteSpace=wrap;html=1;fillColor=#F8CECC;strokeColor=#B85450;fontSize=11;fontStyle=1;fontFamily=Times New Roman;" value="GRUP_&#xa;ÜYELİĞİ" vertex="1">
+          <mxGeometry height="80" width="120" x="480" y="750" as="geometry" />
+        </mxCell>
+        <mxCell id="dil_calisma" parent="1" style="rhombus;whiteSpace=wrap;html=1;fillColor=#F8CECC;strokeColor=#B85450;fontSize=11;fontStyle=1;fontFamily=Times New Roman;" value="DİL&#xa;ÇALIŞMA" vertex="1">
+          <mxGeometry height="80" width="120" x="220" y="750" as="geometry" />
+        </mxCell>
+        <mxCell id="e1" edge="1" parent="1" source="kullanici" style="endArrow=ERmandOne;startArrow=ERmandOne;html=1;strokeColor=#CC0000;strokeWidth=2;fontFamily=Times New Roman;fontSize=10;fontColor=#CC0000;" target="profil">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="b0akCvBPydVx-nsdXrTA-1" connectable="0" parent="e1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="&lt;font style=&quot;color: light-dark(rgb(255, 0, 0), rgb(255, 0, 0));&quot;&gt;Sahiptir&lt;/font&gt;" vertex="1">
+          <mxGeometry relative="1" x="-0.7061" y="-1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="b0akCvBPydVx-nsdXrTA-2" connectable="0" parent="e1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="&lt;font style=&quot;color: light-dark(rgb(255, 0, 0), rgb(255, 0, 0));&quot;&gt;Aittir&lt;/font&gt;" vertex="1">
+          <mxGeometry relative="1" x="0.6971" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="e2" edge="1" parent="1" source="kullanici" style="endArrow=ERmany;startArrow=ERone;html=1;strokeColor=#B20000;strokeWidth=2;fontFamily=Times New Roman;fontSize=10;fontColor=#CC0000;exitX=0;exitY=0.25;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="belge">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="650" y="520" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="b0akCvBPydVx-nsdXrTA-3" connectable="0" parent="e2" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="&lt;font style=&quot;color: rgb(255, 0, 0);&quot;&gt;Aittir&lt;/font&gt;" vertex="1">
+          <mxGeometry relative="1" x="0.8856" as="geometry">
+            <mxPoint x="11" y="2" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="b0akCvBPydVx-nsdXrTA-4" connectable="0" parent="e2" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];strokeColor=light-dark(#FF0000,#FF0000);" value="&lt;font style=&quot;color: light-dark(rgb(255, 0, 0), rgb(255, 0, 0));&quot;&gt;Yükler&lt;/font&gt;" vertex="1">
+          <mxGeometry relative="1" x="-0.772" y="2" as="geometry">
+            <mxPoint x="11" y="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="e3" edge="1" parent="1" source="kullanici" style="endArrow=ERmany;startArrow=ERone;html=1;strokeColor=#CC0000;strokeWidth=2;fontFamily=Times New Roman;fontSize=10;fontColor=#CC0000;" target="basvuru">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="b0akCvBPydVx-nsdXrTA-5" connectable="0" parent="e3" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="&lt;font style=&quot;color: light-dark(rgb(255, 0, 0), rgb(255, 0, 0));&quot;&gt;Yapar&lt;/font&gt;" vertex="1">
+          <mxGeometry relative="1" x="-0.718" y="-1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="b0akCvBPydVx-nsdXrTA-6" connectable="0" parent="e3" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="&lt;font style=&quot;color: light-dark(rgb(255, 0, 0), rgb(255, 0, 0));&quot;&gt;Aittir&lt;/font&gt;" vertex="1">
+          <mxGeometry relative="1" x="0.7344" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="e4" edge="1" parent="1" source="basvuru" style="endArrow=ERone;startArrow=ERmany;html=1;strokeColor=#CC0000;strokeWidth=2;fontFamily=Times New Roman;fontSize=10;fontColor=#CC0000;" target="universite">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="b0akCvBPydVx-nsdXrTA-7" connectable="0" parent="e4" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="&lt;font style=&quot;color: light-dark(rgb(255, 0, 0), rgb(255, 0, 0));&quot;&gt;Gönderilir&lt;/font&gt;" vertex="1">
+          <mxGeometry relative="1" x="-0.6541" as="geometry">
+            <mxPoint x="2" y="-8" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="b0akCvBPydVx-nsdXrTA-8" connectable="0" parent="e4" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="&lt;font style=&quot;color: light-dark(rgb(255, 0, 0), rgb(255, 0, 0));&quot;&gt;Alır&lt;/font&gt;" vertex="1">
+          <mxGeometry relative="1" x="0.4837" y="3" as="geometry">
+            <mxPoint x="10" y="5" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="e5" edge="1" parent="1" source="universite" style="endArrow=ERmany;startArrow=ERone;html=1;strokeColor=#CC0000;strokeWidth=2;fontFamily=Times New Roman;fontSize=10;fontColor=#CC0000;" target="anlasma">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="b0akCvBPydVx-nsdXrTA-9" connectable="0" parent="e5" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="&lt;font style=&quot;color: light-dark(rgb(255, 0, 0), rgb(255, 0, 0));&quot;&gt;Sahiptir&lt;/font&gt;" vertex="1">
+          <mxGeometry relative="1" x="-0.5707" y="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="b0akCvBPydVx-nsdXrTA-10" connectable="0" parent="e5" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="&lt;font style=&quot;color: light-dark(rgb(255, 0, 0), rgb(255, 0, 0));&quot;&gt;Aittir&lt;/font&gt;" vertex="1">
+          <mxGeometry relative="1" x="0.536" y="-2" as="geometry">
+            <mxPoint y="-2" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="e6" edge="1" parent="1" source="basvuru" style="endArrow=ERzeroToOne;startArrow=ERone;html=1;strokeColor=#CC0000;strokeWidth=2;fontFamily=Times New Roman;fontSize=10;fontColor=#CC0000;" target="seyahat">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="b0akCvBPydVx-nsdXrTA-11" connectable="0" parent="e6" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="&lt;font style=&quot;color: light-dark(rgb(255, 0, 0), rgb(255, 0, 0));&quot;&gt;Aittir&lt;/font&gt;" vertex="1">
+          <mxGeometry relative="1" x="0.4578" y="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="b0akCvBPydVx-nsdXrTA-12" connectable="0" parent="e6" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="&lt;font style=&quot;color: light-dark(rgb(255, 0, 0), rgb(255, 0, 0));&quot;&gt;Kapsar&lt;/font&gt;" vertex="1">
+          <mxGeometry relative="1" x="-0.5811" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="e7" edge="1" parent="1" source="kullanici" style="endArrow=ERzeroToMany;startArrow=ERone;html=1;strokeColor=#CC0000;strokeWidth=2;fontFamily=Times New Roman;fontSize=10;fontColor=#CC0000;" target="forum_yazisi">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="b0akCvBPydVx-nsdXrTA-13" connectable="0" parent="e7" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="&lt;font style=&quot;color: light-dark(rgb(255, 0, 0), rgb(255, 0, 0));&quot;&gt;Oluşturur&lt;/font&gt;" vertex="1">
+          <mxGeometry relative="1" x="-0.7253" as="geometry">
+            <mxPoint x="1" y="-14" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="b0akCvBPydVx-nsdXrTA-14" connectable="0" parent="e7" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="&lt;font style=&quot;color: light-dark(rgb(255, 0, 0), rgb(255, 0, 0));&quot;&gt;Aittir&lt;/font&gt;" vertex="1">
+          <mxGeometry relative="1" x="0.3499" y="-1" as="geometry">
+            <mxPoint x="11" y="-10" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="e8" edge="1" parent="1" source="forum_yazisi" style="endArrow=ERzeroToMany;startArrow=ERone;html=1;strokeColor=#CC0000;strokeWidth=2;fontFamily=Times New Roman;fontSize=10;fontColor=#CC0000;" target="forum_cevabi">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="b0akCvBPydVx-nsdXrTA-15" connectable="0" parent="e8" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="&lt;font style=&quot;color: light-dark(rgb(255, 0, 0), rgb(255, 0, 0));&quot;&gt;Alır&lt;/font&gt;" vertex="1">
+          <mxGeometry relative="1" x="-0.7629" y="-1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="b0akCvBPydVx-nsdXrTA-16" connectable="0" parent="e8" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="&lt;font style=&quot;color: light-dark(rgb(255, 0, 0), rgb(255, 0, 0));&quot;&gt;Aittir&lt;/font&gt;" vertex="1">
+          <mxGeometry relative="1" x="0.513" y="3" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="e9" edge="1" parent="1" source="forum_yazisi" style="endArrow=ERone;startArrow=ERmany;html=1;strokeColor=#CC0000;strokeWidth=2;fontFamily=Times New Roman;fontSize=10;fontColor=#CC0000;" target="kategori">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="b0akCvBPydVx-nsdXrTA-17" connectable="0" parent="e9" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="&lt;font style=&quot;color: light-dark(rgb(255, 0, 0), rgb(255, 0, 0));&quot;&gt;Aittir&lt;/font&gt;" vertex="1">
+          <mxGeometry relative="1" x="-0.6647" y="3" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="b0akCvBPydVx-nsdXrTA-18" connectable="0" parent="e9" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="&lt;div&gt;&lt;font style=&quot;color: light-dark(rgb(255, 0, 0), rgb(255, 0, 0));&quot;&gt;İçerir&lt;/font&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry relative="1" x="0.7201" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="e10" edge="1" parent="1" source="kullanici" style="endArrow=ERzeroToMany;startArrow=ERone;html=1;strokeColor=#CC0000;strokeWidth=2;fontFamily=Times New Roman;fontSize=10;fontColor=#CC0000;" target="mesaj">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="b0akCvBPydVx-nsdXrTA-19" connectable="0" parent="e10" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="&lt;font style=&quot;color: light-dark(rgb(255, 0, 0), rgb(255, 0, 0));&quot;&gt;Gönderir&lt;/font&gt;" vertex="1">
+          <mxGeometry relative="1" x="-0.7736" as="geometry">
+            <mxPoint x="13" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="b0akCvBPydVx-nsdXrTA-20" connectable="0" parent="e10" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="&lt;font style=&quot;color: light-dark(rgb(255, 0, 0), rgb(255, 0, 0));&quot;&gt;İletilir&lt;/font&gt;" vertex="1">
+          <mxGeometry relative="1" x="0.4861" y="-3" as="geometry">
+            <mxPoint x="2" y="-4" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="e11" edge="1" parent="1" source="kullanici" style="endArrow=ERzeroToMany;startArrow=ERone;html=1;strokeColor=#CC0000;strokeWidth=2;fontFamily=Times New Roman;fontSize=10;fontColor=#CC0000;" target="bildirim">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="b0akCvBPydVx-nsdXrTA-21" connectable="0" parent="e11" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="&lt;font style=&quot;color: light-dark(rgb(255, 0, 0), rgb(255, 0, 0));&quot;&gt;Alır&lt;/font&gt;" vertex="1">
+          <mxGeometry relative="1" x="-0.7908" y="-2" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="b0akCvBPydVx-nsdXrTA-22" connectable="0" parent="e11" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="&lt;font style=&quot;color: light-dark(rgb(255, 0, 0), rgb(255, 0, 0));&quot;&gt;Gönderilir&lt;/font&gt;" vertex="1">
+          <mxGeometry relative="1" x="0.6703" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="e12" edge="1" parent="1" source="kullanici" style="endArrow=ERzeroToMany;startArrow=ERone;html=1;strokeColor=#CC0000;strokeWidth=2;fontFamily=Times New Roman;fontSize=10;fontColor=#CC0000;" target="odeme">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="b0akCvBPydVx-nsdXrTA-23" connectable="0" parent="e12" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="&lt;font style=&quot;color: light-dark(rgb(255, 0, 0), rgb(255, 0, 0));&quot;&gt;Yapar&lt;/font&gt;" vertex="1">
+          <mxGeometry relative="1" x="-0.6773" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="b0akCvBPydVx-nsdXrTA-24" connectable="0" parent="e12" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="&lt;font style=&quot;color: light-dark(rgb(255, 0, 0), rgb(255, 0, 0));&quot;&gt;Aittir&lt;/font&gt;" vertex="1">
+          <mxGeometry relative="1" x="0.6794" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="e13" edge="1" parent="1" source="kullanici" style="endArrow=ERzeroToMany;startArrow=ERone;html=1;strokeColor=#CC0000;strokeWidth=2;fontFamily=Times New Roman;fontSize=10;fontColor=#CC0000;" target="log">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="b0akCvBPydVx-nsdXrTA-25" connectable="0" parent="e13" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="&lt;font style=&quot;color: light-dark(rgb(255, 0, 0), rgb(255, 0, 0));&quot;&gt;Üretir&lt;/font&gt;" vertex="1">
+          <mxGeometry relative="1" x="-0.841" y="-3" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="b0akCvBPydVx-nsdXrTA-26" connectable="0" parent="e13" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="&lt;font style=&quot;color: light-dark(rgb(255, 0, 0), rgb(255, 0, 0));&quot;&gt;Aittir&lt;/font&gt;" vertex="1">
+          <mxGeometry relative="1" x="0.7644" y="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="e14" edge="1" parent="1" source="kullanici" style="endArrow=ERzeroToMany;startArrow=ERone;html=1;strokeColor=#CC0000;strokeWidth=2;fontFamily=Times New Roman;fontSize=10;fontColor=#CC0000;" target="guvenlik_log">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="960" y="780" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="e15" edge="1" parent="1" source="kullanici" style="endArrow=ERmany;startArrow=ERone;html=1;strokeColor=#CC0000;strokeWidth=2;fontFamily=Times New Roman;fontSize=10;fontColor=#CC0000;" target="kullanici_rozet">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="b0akCvBPydVx-nsdXrTA-29" connectable="0" parent="e15" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="&lt;font style=&quot;color: light-dark(rgb(255, 0, 0), rgb(255, 0, 0));&quot;&gt;Kazanır&lt;/font&gt;" vertex="1">
+          <mxGeometry relative="1" x="-0.7353" y="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="e16" edge="1" parent="1" source="rozet" style="endArrow=ERmany;startArrow=ERone;html=1;strokeColor=#CC0000;strokeWidth=2;fontFamily=Times New Roman;fontSize=10;fontColor=#CC0000;" target="kullanici_rozet">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="b0akCvBPydVx-nsdXrTA-31" connectable="0" parent="e16" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="&lt;font style=&quot;color: light-dark(rgb(255, 0, 0), rgb(255, 0, 0));&quot;&gt;Verilir&lt;/font&gt;" vertex="1">
+          <mxGeometry relative="1" x="-0.2935" y="-1" as="geometry">
+            <mxPoint x="-18" y="11" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="b0akCvBPydVx-nsdXrTA-32" connectable="0" parent="e16" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="&lt;font style=&quot;color: light-dark(rgb(255, 0, 0), rgb(255, 0, 0));&quot;&gt;İçerir&lt;/font&gt;" vertex="1">
+          <mxGeometry relative="1" x="0.4405" y="1" as="geometry">
+            <mxPoint x="11" y="-14" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="e17" edge="1" parent="1" source="kullanici" style="endArrow=ERmany;startArrow=ERone;html=1;strokeColor=#CC0000;strokeWidth=2;fontFamily=Times New Roman;fontSize=10;fontColor=#CC0000;" target="grup_uyeligi">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="b0akCvBPydVx-nsdXrTA-33" connectable="0" parent="e17" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="&lt;font style=&quot;color: light-dark(rgb(255, 0, 0), rgb(255, 0, 0));&quot;&gt;Üyedir&lt;/font&gt;" vertex="1">
+          <mxGeometry relative="1" x="-0.7924" y="-1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="b0akCvBPydVx-nsdXrTA-34" connectable="0" parent="e17" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="&lt;font style=&quot;color: light-dark(rgb(255, 0, 0), rgb(255, 0, 0));&quot;&gt;İçerir&lt;/font&gt;" vertex="1">
+          <mxGeometry relative="1" x="0.7104" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="e18" edge="1" parent="1" source="grup" style="endArrow=ERmany;startArrow=ERone;html=1;strokeColor=#CC0000;strokeWidth=2;fontFamily=Times New Roman;fontSize=10;fontColor=#CC0000;" target="grup_uyeligi">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="b0akCvBPydVx-nsdXrTA-35" connectable="0" parent="e18" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="&lt;font style=&quot;color: light-dark(rgb(255, 0, 0), rgb(255, 0, 0));&quot;&gt;Sahiptir&lt;/font&gt;" vertex="1">
+          <mxGeometry relative="1" x="-0.3612" y="2" as="geometry">
+            <mxPoint x="-15" y="16" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="b0akCvBPydVx-nsdXrTA-36" connectable="0" parent="e18" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="&lt;font style=&quot;color: light-dark(rgb(255, 0, 0), rgb(255, 0, 0));&quot;&gt;Aittir&lt;/font&gt;" vertex="1">
+          <mxGeometry relative="1" x="0.4961" y="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="e19" edge="1" parent="1" source="kullanici" style="endArrow=ERmany;startArrow=ERone;html=1;strokeColor=#CC0000;strokeWidth=2;fontFamily=Times New Roman;fontSize=10;fontColor=#CC0000;" target="dil_calisma">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="b0akCvBPydVx-nsdXrTA-37" connectable="0" parent="e19" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="&lt;font style=&quot;color: light-dark(rgb(255, 0, 0), rgb(255, 0, 0));&quot;&gt;Çalışır&lt;/font&gt;" vertex="1">
+          <mxGeometry relative="1" x="-0.8016" y="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="b0akCvBPydVx-nsdXrTA-38" connectable="0" parent="e19" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="&lt;font style=&quot;color: light-dark(rgb(255, 0, 0), rgb(255, 0, 0));&quot;&gt;İçerir&lt;/font&gt;" vertex="1">
+          <mxGeometry relative="1" x="0.7627" y="-2" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="e20" edge="1" parent="1" source="dil_icerigi" style="endArrow=ERmany;startArrow=ERone;html=1;strokeColor=#CC0000;strokeWidth=2;fontFamily=Times New Roman;fontSize=10;fontColor=#CC0000;" target="dil_calisma">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="b0akCvBPydVx-nsdXrTA-39" connectable="0" parent="e20" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="&lt;font style=&quot;color: light-dark(rgb(255, 0, 0), rgb(255, 0, 0));&quot;&gt;Sunulur&lt;/font&gt;" vertex="1">
+          <mxGeometry relative="1" x="-0.5795" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="b0akCvBPydVx-nsdXrTA-40" connectable="0" parent="e20" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="&lt;font style=&quot;color: light-dark(rgb(255, 0, 0), rgb(255, 0, 0));&quot;&gt;İçerir&lt;/font&gt;" vertex="1">
+          <mxGeometry relative="1" x="0.5625" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="b0akCvBPydVx-nsdXrTA-27" connectable="0" parent="1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="&lt;font style=&quot;color: light-dark(rgb(255, 0, 0), rgb(255, 0, 0));&quot;&gt;Üretir&lt;/font&gt;" vertex="1">
+          <mxGeometry x="820" y="600" as="geometry" />
+        </mxCell>
+        <mxCell id="b0akCvBPydVx-nsdXrTA-28" connectable="0" parent="1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="&lt;font style=&quot;color: light-dark(rgb(255, 0, 0), rgb(255, 0, 0));&quot;&gt;Aittir&lt;/font&gt;" vertex="1">
+          <mxGeometry x="1190" y="930" as="geometry" />
+        </mxCell>
+        <mxCell id="b0akCvBPydVx-nsdXrTA-30" connectable="0" parent="1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="&lt;font style=&quot;color: light-dark(rgb(255, 0, 0), rgb(255, 0, 0));&quot;&gt;Aittir&lt;/font&gt;" vertex="1">
+          <mxGeometry x="360" y="550" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
