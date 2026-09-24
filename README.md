@@ -2,7 +2,7 @@
 
 **Türk üniversite öğrencilerinin Erasmus başvuru ve hazırlık sürecini tek platformda toplayan web platformu.**
 
-> Sakarya Üniversitesi Yönetim Bilişim Sistemleri bölümü, *Sistem Analizi ve Tasarımı* dersi kapsamında 4 kişilik bir ekip tarafından geliştirilmiştir. Platform ders süresince canlı ortamda yayınlanmış, dönem sonunda sunucular kapatılmıştır. Bu repo projenin analiz, tasarım ve arayüz çalışmalarını belgelemektedir.
+> Sakarya Üniversitesi Yönetim Bilişim Sistemleri bölümü, *Sistem Analizi ve Tasarımı* dersi kapsamında 4 kişilik bir ekip tarafından geliştirilmiştir. Platform ders süresince canlı ortamda yayınlanmış, geliştirilmeye devam edilmektedir. Bu repo projenin analiz, tasarım ve arayüz çalışmalarını belgelemektedir.
 
 ![Ana Sayfa](docs/06-arayuz-tasarimi/ana-sayfa.png)
 
