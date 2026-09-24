@@ -113,6 +113,23 @@ Veritabanı kavramsal, mantıksal ve fiziksel olmak üzere üç aşamada modelle
 
 ---
 
+## 🛠️ Kullanılan Teknolojiler
+
+Analiz ve tasarım sürecinin ardından platform aşağıdaki stack ile hayata geçirildi ve PythonAnywhere üzerinde canlıya alındı:
+
+| Katman | Teknoloji |
+|---|---|
+| Backend | Flask (Python) |
+| Kimlik doğrulama | Werkzeug (`generate_password_hash` / `check_password_hash` ile şifre hashleme) |
+| Veritabanı | SQLite |
+| Frontend | Jinja2 template'leri ile sunucu taraflı render |
+| PWA | Web App Manifest + Service Worker |
+| Hosting | PythonAnywhere |
+
+> Bu repo yalnızca analiz, tasarım ve arayüz çalışmalarını belgeler; uygulamanın kaynak kodu bu repoda yer almaz.
+
+---
+
 ## 🙋 Katkılarım (Ensar Türk)
 
 - **Fikir geliştirme:** Problemin tanımlanması ve platform konseptinin oluşturulmasında aktif rol aldım.
